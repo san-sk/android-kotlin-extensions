@@ -1,3 +1,3 @@
-# android-kotlin-extensions
+# Android-Kotlin-Extensions
 
-# This repo will contain set of useful helper codes for android development
+# This repo will contain set of useful helper functions to boost android development
